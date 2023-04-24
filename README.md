@@ -6,7 +6,7 @@
 
 <h2>Vespy Grabber 2.0</h2>
 
-# JOIN OUR DISCORD
+<h2>JOIN OUR DISCORD<h2>
 
 - https://discord.gg/Ze9j7WcN
 
